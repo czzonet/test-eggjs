@@ -1,0 +1,19 @@
+{
+  "name": "test-eggjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/czzonet/test-eggjs.git",
+  "author": "czzonet <czzonet@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "egg-bin dev"
+  },
+  "dependencies": {
+    "egg": "^3.3.3",
+    "egg-bin": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.0",
+    "typescript": "^4.8.4"
+  }
+}

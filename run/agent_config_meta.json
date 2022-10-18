@@ -1,0 +1,275 @@
+{
+  "keys": "C:\\Users\\czz\\Repo\\test-eggjs\\config\\config.default.js",
+  "session": {
+    "maxAge": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-session@3.3.0\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-session@3.3.0\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-session@3.3.0\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-session@3.3.0\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-session@3.3.0\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "supportedRequests": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "ipExceptionList": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-security@2.11.0\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-jsonp@2.0.0\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-jsonp@2.0.0\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-jsonp@2.0.0\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-onerror@2.1.1\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-onerror@2.1.1\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-onerror@2.1.1\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-i18n@2.1.1\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-i18n@2.1.1\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-i18n@2.1.1\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-i18n@2.1.1\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-i18n@2.1.1\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-i18n@2.1.1\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-watcher@3.1.1\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-watcher@3.1.1\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-watcher@3.1.1\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-schedule@3.7.0\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-schedule@3.7.0\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-schedule@3.7.0\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultParamCharset": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js",
+      "disable": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-multipart@3.2.0\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-development@2.7.0\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-development@2.7.0\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-development@2.7.0\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-development@2.7.0\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-development@2.7.0\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-development@2.7.0\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-logrotator@3.1.0\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-logrotator@3.1.0\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-logrotator@3.1.0\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-logrotator@3.1.0\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-logrotator@3.1.0\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-logrotator@3.1.0\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-logrotator@3.1.0\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-static@2.2.0\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-static@2.2.0\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-static@2.2.0\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-static@2.2.0\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-static@2.2.0\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-static@2.2.0\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-view@2.1.3\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-view@2.1.3\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-view@2.1.3\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-view@2.1.3\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg-view@2.1.3\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "main": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "repository": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "author": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "@types/node": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+      "typescript": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "cacheControl": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "enablePerformanceTimer": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+    },
+    "useHttpClientNext": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+  },
+  "meta": {
+    "enable": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "C:\\Users\\czz\\Repo\\test-eggjs\\node_modules\\.pnpm\\egg@3.3.3\\node_modules\\egg\\config\\config.default.js"
+}

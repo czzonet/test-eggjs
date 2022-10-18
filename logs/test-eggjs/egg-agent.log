@@ -1,0 +1,11 @@
+2022-10-18 14:57:03,445 INFO 12600 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\czz\\Repo\\test-eggjs\\logs\\test-eggjs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"test-eggjs-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-10-18 14:57:03,451 INFO 12600 [egg:core] dump config after load, 3ms
+2022-10-18 14:57:03,484 INFO 12600 [egg-watcher] Start watching: ["C:\\Users\\czz\\Repo\\test-eggjs\\app","C:\\Users\\czz\\Repo\\test-eggjs\\config","C:\\Users\\czz\\Repo\\test-eggjs\\mocks","C:\\Users\\czz\\Repo\\test-eggjs\\mocks_proxy","C:\\Users\\czz\\Repo\\test-eggjs\\app.js"]
+2022-10-18 14:57:03,484 INFO 12600 [egg-watcher] Start watching: "C:\\Users\\czz\\Repo\\test-eggjs\\app"
+2022-10-18 14:57:03,484 INFO 12600 [egg-watcher] Start watching: "C:\\Users\\czz\\Repo\\test-eggjs\\config"
+2022-10-18 14:57:03,484 INFO 12600 [egg-watcher] Start watching: "C:\\Users\\czz\\Repo\\test-eggjs\\mocks"
+2022-10-18 14:57:03,485 INFO 12600 [egg-watcher] Start watching: "C:\\Users\\czz\\Repo\\test-eggjs\\mocks_proxy"
+2022-10-18 14:57:03,485 INFO 12600 [egg-watcher] Start watching: "C:\\Users\\czz\\Repo\\test-eggjs\\app.js"
+2022-10-18 14:57:03,485 INFO 12600 [egg-watcher:agent] watcher start success
+2022-10-18 14:57:03,493 INFO 12600 [egg:core] dump config after ready, 4ms
+2022-10-18 14:57:04,281 INFO 12600 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"C:\\Users\\czz\\Repo\\test-eggjs\\app\\public","stat":{"dev":3492246947,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":562949955319257,"size":0,"blocks":0,"atimeMs":1666076224279.7527,"mtimeMs":1666076224279.7527,"ctimeMs":1666076224279.7527,"birthtimeMs":1666076224279.7527,"atime":"2022-10-18T06:57:04.280Z","mtime":"2022-10-18T06:57:04.280Z","ctime":"2022-10-18T06:57:04.280Z","birthtime":"2022-10-18T06:57:04.280Z"},"remove":false,"isDirectory":true,"isFile":false}

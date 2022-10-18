@@ -1,0 +1,6 @@
+2022-10-18 14:57:04,316 INFO 12600 [Timer] C:\Users\czz\Repo\test-eggjs\node_modules\.pnpm\egg-multipart@3.2.0\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48775686ms at 2022-10-19 04:30:00.002
+2022-10-18 14:57:04,317 INFO 12600 [Timer] C:\Users\czz\Repo\test-eggjs\node_modules\.pnpm\egg-logrotator@3.1.0\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 32575684ms at 2022-10-19 00:00:00.001
+2022-10-18 14:57:04,317 INFO 12600 [Timer] C:\Users\czz\Repo\test-eggjs\node_modules\.pnpm\egg-logrotator@3.1.0\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32576683ms at 2022-10-19 00:00:01.000
+2022-10-18 14:57:04,186 INFO 14248 [egg-schedule]: register schedule C:\Users\czz\Repo\test-eggjs\node_modules\.pnpm\egg-multipart@3.2.0\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-10-18 14:57:04,186 INFO 14248 [egg-schedule]: register schedule C:\Users\czz\Repo\test-eggjs\node_modules\.pnpm\egg-logrotator@3.1.0\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-10-18 14:57:04,186 INFO 14248 [egg-schedule]: register schedule C:\Users\czz\Repo\test-eggjs\node_modules\.pnpm\egg-logrotator@3.1.0\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
